@@ -2,7 +2,7 @@
 title: "Decarbonization pathways for liquid fuels: A multi-sector energy
 system perspective"
 collection: publications
-excerpt: "Using a multi-sector capacity expansion model, we assess how biomass and carbon sequestration availability, fuel demand distribution, and supply flexibility drive competition among biofuels, synthetic fuels, and fossil liquids pathways. The findings clarify how resource constraints govern feasible fuel mixes, providing guidance for policy on biomass allocation and carbon management."
+excerpt: "Using a multi-sector capacity expansion model, we assess how biomass availability, carbon sequestration limits, fuel demand distributions, and supply flexibility shape competition among biofuel, synthetic fuel, and fossil liquid pathways and influence carbon management decisions."
 date: 2025-11-25
 venue: "arXiv preprint"
 paperurl: "https://arxiv.org/abs/2511.19159"
