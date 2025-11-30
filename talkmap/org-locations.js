@@ -1,22 +1,32 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Integrated energy systems perspective on blue and green hydrogen in net-zero energy systems<br />INFORMS Annual Meeting; Seattle, WA, USA",
+    47.6038321,
+    -122.330062
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Drivers of Blue and Green Hydrogen Deployment in Net-Zero Emissions Scenarios<br />AIChE Annual Meeting; San Diego, CA, USA",
+    32.7174202,
+    -117.162772
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Systematic assessment of liquid fuel production pathways in cost-optimized, net-zero energy systems\u201d, AIChE Annual Meeting<br />AIChE Annual Meeting; Boston, MA, USA",
+    42.3588336,
+    -71.0578303
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7932754,
-    -122.3963589
+    "The role of negative emission technologies in a net-zero electricity and hydrogen production system<br />International Energy Workshop; Golden, CO, USA",
+    39.7546349,
+    -105.22058
+  ],
+  [
+    "The role for synthetic and biofuel pathways in an integrated, net-zero energy system<br />AIChE Annual Meeting; Orlando, FL, USA",
+    28.5421218,
+    -81.379045
+  ],
+  [
+    "Multi-vector optimization framework to support equitable building decarbonization in urban environments<br />INFORMS Annual Meeting; Atlanta, GA, USA",
+    33.7544657,
+    -84.3898151
   ]
 ];
