@@ -15,7 +15,7 @@ var addressPoints = [
     -71.0578303
   ],
   [
-    "The role of negative emission technologies in a net-zero electricity and hydrogen production system<br />International Energy Workshop; Golden, CO, USA",
+    "The role of negative emission technologies in a net-zero electricity and hydrogen production system<br />41st International Energy Workshop; Golden, CO, USA",
     39.7546349,
     -105.22058
   ],
