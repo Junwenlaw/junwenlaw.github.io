@@ -28,12 +28,11 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.paperurl %}
-        <a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ title }}</a>
+        <a href="{{ post.paperurl }}" target="_blank">{{ title }}</a>
       {% else %}
         {{ title }}
       {% endif %}
-    </h2>
-    
+    </h2>    
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
