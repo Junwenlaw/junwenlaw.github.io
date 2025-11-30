@@ -5,7 +5,7 @@ var addressPoints = [
     -122.330062
   ],
   [
-    "Drivers of Blue and Green Hydrogen Deployment in Net-Zero Emissions Scenarios<br />AIChE Annual Meeting; San Diego, CA, USA",
+    "Drivers of blue and green hydrogen deployment in net-zero emissions scenarios<br />AIChE Annual Meeting; San Diego, CA, USA",
     32.7174202,
     -117.162772
   ],
