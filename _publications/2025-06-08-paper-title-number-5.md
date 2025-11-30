@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Techno-economic analysis and life cycle assessment of CO2
+electrochemical conversion via SOEC for sustainable industrial applications"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: "We develop and assess a solid oxide electrolysis cell (SOEC)-based model, demonstrating strong performance and emissions benefits for low-carbon industrial CO production."
+date: 2025-11-03
+venue: "Abu Dhabi International Petroleum Exhibition and Conference"
+paperurl: "https://onepetro.org/SPEADIP/proceedings/25ADIP/25ADIP/D011S031R004/793353"
+citation: "M. Alshalan, **J. W. Law**, N. Howard, P. Agarwal, ”Techno-economic Analysis and Life Cycle Assessment of CO2 Electrochemical Conversion via SOEC for Sustainable Industrial Applications”, *Paper presented at the ADIPEC, Abu Dhabi, United Arab Emirates, 2025*. https://doi.org/10.2118/229051-MS"
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.

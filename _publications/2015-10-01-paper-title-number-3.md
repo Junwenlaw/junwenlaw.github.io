@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "Multi-sectoral impacts of H2 and synthetic fuels adoption for
+heavy-duty transportation decarbonization"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: "We link a transport demand model with a multi-sector energy system model to compare hydrogen and synthetic liquid fuels for decarbonizing heavy-duty vehicles in Western Europe. The analysis quantifies system-wide trade-offs in costs, fuel switching, and carbon management strategies, offering insights for transport and energy policy."
+date: 2025-11-25
+venue: "arXiv preprint"
+paperurl: "https://arxiv.org/abs/2509.10734"
+citation: "Y. Shaker, **J. W. Law**, A. Botterud, D. Mallapragada, ”Multi-sectoral impacts of H2 and synthetic fuels adoption for
+heavy-duty transportation decarbonization”, *arXiv preprint, 2025*: https://arxiv.org/abs/2509.10734."
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Decarbonization pathways for liquid fuels: A multi-sector energy
+system perspective"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: "Using a multi-sector capacity expansion model, we assess how biomass and carbon sequestration availability, fuel demand distribution, and supply flexibility drive competition among biofuels, synthetic fuels, and fossil liquids pathways. The findings clarify how resource constraints govern feasible fuel mixes, providing guidance for policy on biomass allocation and carbon management."
+date: 2025-11-25
+venue: "arXiv preprint"
+paperurl: "https://arxiv.org/abs/2511.19159"
+citation: "**J. W. Law**, B. K. Mignone, D. S. Mallapragada, ”Decarbonization pathways for liquid fuels: A multi-sector energy system perspective”, *arXiv preprint, 2025*: https://arxiv.org/abs/2511.19159."
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
