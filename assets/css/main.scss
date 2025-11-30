@@ -42,11 +42,9 @@
     "vendor/font-awesome/brands"
 ;
 
-.page__content[aria-label="Talks and Presentations"] .archive__item-title {
-  cursor: default !important;
-}
-
-.page__content[aria-label="Talks and Presentations"] .archive__item-title:hover {
-  text-decoration: none !important;
-  color: inherit !important;
+.talk-title {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin: 0 0 0.3em 0;
+  cursor: default;
 }
