@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "MACRO"
+paperurl: "https://github.com/macroenergy/MacroEnergy.jl"
+excerpt: "I am part of the core development team for <i>MACRO</i>, an open-source, energy system optimization model that flexibly represent electricity, fuels, hydrogen, CO2, and industrial systems within a unified graph-based architecture. The model supports technologically rich, high–resolution analysis through a modular “plug-and-play” architecture, enabled by advances in clustering methods, decomposition algorithms, and compact technology representations.<br/><img src='/images/Macro3.png'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
