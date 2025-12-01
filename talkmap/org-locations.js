@@ -10,7 +10,7 @@ var addressPoints = [
     -117.162772
   ],
   [
-    "<u>Systematic assessment of liquid fuel production pathways in cost-optimized, net-zero energy systems</u>\u201d, AIChE Annual Meeting<br />AIChE Annual Meeting; Boston, MA, USA",
+    "<u>Systematic assessment of liquid fuel production pathways in cost-optimized, net-zero energy systems</u><br />AIChE Annual Meeting; Boston, MA, USA",
     42.3588336,
     -71.0578303
   ],
