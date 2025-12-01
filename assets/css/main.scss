@@ -60,3 +60,9 @@
   margin-bottom: 0.6rem !important;
   line-height: 1.35;
 }
+
+.talk-item {
+  margin-bottom: 1.5rem !important;   /* adjust spacing between talks */
+  padding-bottom: 0.5rem;             /* optional small padding */
+  border-bottom: 0px solid #ddd;      /* optional separator */
+}
