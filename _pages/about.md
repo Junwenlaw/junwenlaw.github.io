@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a final year Ph.D. candidate at MIT advised by [Prof. Robert Armstrong](https://energy.mit.edu/profile/robert-armstrong/) and [Prof. Dharik Mallapragada](https://engineering.nyu.edu/faculty/dharik-mallapragada), and affliated with the [MIT Energy Initiative](https://energy.mit.edu). I build energy system optimization models to evaluate viable energy transition strategies. I am on the job market for roles starting in September 2026, with a preference for opportunities in Europe.
+Hello! I am a final year Ph.D. candidate at MIT advised by [Prof. Robert Armstrong](https://energy.mit.edu/profile/robert-armstrong/) and [Prof. Dharik Mallapragada](https://engineering.nyu.edu/faculty/dharik-mallapragada), and affliated with the [MIT Energy Initiative](https://energy.mit.edu). I build energy system optimization models to evaluate viable energy transition strategies. I am on the job market for roles starting in September 2026.
 
 My research develops **multi-sector energy system models** to study how **renewable electricity, hydrogen, sustainable fuels, and carbon-management strategies** interact with infrastructure and policy design to shape long-term decarbonization pathways. I’m also developing methodological advances that improve the scalability and realism of energy system modeling. 
 
