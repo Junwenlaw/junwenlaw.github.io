@@ -5,5 +5,5 @@ excerpt: "We use a multi-sector energy system model to examine how grid connecti
 date: 2025-11-26
 venue: "Environmental Science & Technology"
 paperurl: "https://pubs.acs.org/doi/full/10.1021/acs.est.4c12166"
-authors: "<b>J. W. Law</b>, B. K. Mignone, D. S. Mallapragada”
+authors: "<b>J. W. Law</b>, B. K. Mignone, D. S. Mallapragada"
 ---
