@@ -6,5 +6,5 @@ excerpt: "Using a multi-sector capacity expansion model, we assess how biomass a
 date: 2025-11-25
 venue: "arXiv preprint"
 paperurl: "https://arxiv.org/abs/2511.19159"
-citation: "<b>J. W. Law</b>, B. K. Mignone, D. S. Mallapragada, ”Decarbonization pathways for liquid fuels: A multi-sector energy system perspective”, <i>arXiv preprint, 2025</i>."
+authors: "<b>J. W. Law</b>, B. K. Mignone, D. S. Mallapragada"
 ---
