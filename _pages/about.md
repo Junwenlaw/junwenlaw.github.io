@@ -15,5 +15,5 @@ My broader interests include economy-wide decarbonization, climate and energy po
 
 Prior to MIT, I received my undergradaute degree in Chemical Engineering at [NUS](https://cde.nus.edu.sg/chbe/), and spent a semester as a visiting student at [ETH Zurich](https://ethz.ch/en.html). My industry experience include internships at [Woodside Energy](https://www.woodside.com) and [AspenTech](https://www.aspentech.com/en).
 
-Outside of research, I enjoy traveling, photography, and [playing music](https://www.youtube.com/watch?v=ZZaGN5Y6CbU&t=203s). These interests give me space to explore creativity and stay grounded, playing a complementary role to the analytical nature of my academic work.
+Outside of research, I enjoy traveling, photography, and [playing music](https://www.youtube.com/watch?v=ZZaGN5Y6CbU&t=205s). These interests give me space to explore creativity and stay grounded, playing a complementary role to the analytical nature of my academic work.
 
