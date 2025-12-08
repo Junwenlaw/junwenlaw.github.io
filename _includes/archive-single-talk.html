@@ -14,6 +14,7 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -25,14 +26,55 @@
           alt="">
       </div>
     {% endif %}
+
+    <!-- Title acts as the pop-up trigger -->
     <p class="talk-title">
-      {{ title }}
-    </p>    
+      {% if post.abstract_image %}
+        <a href="#abstractModal-{{ post.slug }}" data-toggle="modal">
+          {{ title }}
+        </a>
+      {% else %}
+        {{ title }}
+      {% endif %}
+    </p>
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{ post.venue }},  {{post.location}} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+
+    {% if post.date %}
+      <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
+    {% endif %}
+
+    {% if post.venue %}
+      <p class="archive__item-excerpt" itemprop="description">
+        {{ post.venue }}, {{ post.location }}
+      </p>
+    {% endif %}
+
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% endif %}
+
   </article>
+
+  {% if post.abstract_image %}
+  <div class="modal fade" id="abstractModal-{{ post.slug }}" tabindex="-1">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+      <div class="modal-content">
+
+        <div class="modal-header">
+          <h5 class="modal-title">{{ title }} — Abstract</h5>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+
+        <div class="modal-body">
+          <img src="{{ post.abstract_image | prepend: "/images/" | prepend: base_path }}" class="img-fluid">
+        </div>
+
+      </div>
+    </div>
+  </div>
+  {% endif %}
+
 </div>
